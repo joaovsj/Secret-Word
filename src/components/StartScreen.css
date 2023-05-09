@@ -1,0 +1,12 @@
+.App div{
+    font-size: 1.2em;
+}
+
+.App div button{
+    font-size: 0.7em;
+}
+
+.App div p{
+    margin-bottom: 1em;
+    color: #ecfa00;
+}
