@@ -1,7 +1,7 @@
 # Getting Started with Create React App
- You can see this project [here!](https://github.com/facebook/create-react-app)
+ You can see this project [here!](https://gamewords.netlify.app)
 
-This project was bootstrapped with [Create React App](https://gamewords.netlify.app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
